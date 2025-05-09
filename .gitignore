@@ -1,0 +1,22 @@
+# Entornos Python
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+.secrets
+
+# Archivos grandes
+*.pdf
+*.docx
+*.bin
+*.model
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Datos temporales
+*.log
+tmp/
